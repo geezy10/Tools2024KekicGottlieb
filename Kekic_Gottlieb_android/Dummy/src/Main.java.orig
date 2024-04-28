@@ -4,12 +4,12 @@ public class Main {
     }
 
     public void greetFriendl(){
-
+<<<<<<< HEAD
         System.out.println("Salzburger Nockerl sind eigentlich Spätzle!");
-
+=======
         //moin meister
 
-
+>>>>>>> e99ccd437ad0dba03524645066304f45e38b3dd8
     }
 
 } 
