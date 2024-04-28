@@ -4,7 +4,8 @@ public class Main {
     }
 
     public void greetFriendl(){
-        
+        //moin meister
+
     }
 
 } 
