@@ -10,5 +10,8 @@ public class Main {
 
         //moin meister
     }
+    public void criticalBugifx(){
+        System.out.println("Harrison fixed a critical Bug. He the GOAT!");
+    }
 
 } 
