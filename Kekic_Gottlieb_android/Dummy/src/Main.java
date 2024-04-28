@@ -9,6 +9,12 @@ public class Main {
         System.out.println("Salzburger Nockerl sind eigentlich Spätzle!");
 
         //moin meister
+
+        //Ich mag keine Mozartkugeln :(
+    }
+
+    public void Patrick(){
+        System.out.println("Ist Mayonaise auch ein Instrument?");
     }
 
 } 
