@@ -10,7 +10,7 @@ public class Main {
 
         //moin meister
 
-        //Ich mag keine Mozartkugeln :(
+        //Ich mag Mozartkugeln ganz gerne :(
     }
 
     public void Patrick(){
