@@ -4,7 +4,7 @@ public class Main {
     }
 
     public void greetFriendl(){
-        
+        System.out.println("Salzburger Nockerl sind eigentlich Spätzle!");
     }
 
 } 
