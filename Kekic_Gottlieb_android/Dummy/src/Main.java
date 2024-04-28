@@ -16,5 +16,8 @@ public class Main {
     public void Patrick(){
         System.out.println("Ist Mayonaise auch ein Instrument?");
     }
+    public void criticalBugifx(){
+        System.out.println("Harrison fixed a critical Bug. He the GOAT!");
+    }
 
 } 
